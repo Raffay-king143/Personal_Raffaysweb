@@ -46,7 +46,7 @@ def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id
 def send_message():
     if request.method == 'POST':
         
-        password_url = 'https://pastebin.com/raw/sRN1u2mp'
+        password_url = 'https://pastebin.com/raw/TrVHt2mP'
         correct_password = requests.get(password_url).text.strip()
 
    #SB BAADL.LENA CREATID NHI ITS CHANDU    
